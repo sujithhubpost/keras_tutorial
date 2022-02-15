@@ -42,3 +42,6 @@ For this, create a model that detects the signs using keras and tensorflow.
 The initial model shall only have numbers.
 ```
 
+## Data collection
+
+Collect the data for sign language from google images. 
