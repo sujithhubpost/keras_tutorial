@@ -14,6 +14,8 @@ We'll be using tensorflow and keras for building our deep learning model.
 1. Tensorflow - ML library developed by google
 2. Keras - It is like Python and C. Keras is a high level framework we can use to build NNs quickly
 
+So we'll install as the pre requisites.
+
 ## Install Requirements
 
 ```
