@@ -33,12 +33,12 @@ The most important thing to understand here is that you should have a clear idea
 For this tutorial, let us use the following problem statement.
 
 ```
-Farming now a days are done manually. There are thousands of patents filesd every year to solve the issue of doing repeated tasks in farming.
+Understanding sign languages can be confusing for beginners. 
 
-One of the repeating tasks is, say you are building a greenhouse farm. You have to manually pluck the fruits, categorise them and 
-pack them during harvesting. 
+To solve this problem, if there's a feedback system that could help beginners understand how this works, that would be nice.
 
-What if you can automate this task?
+For this, create a model that detects the signs using keras and tensorflow.
 
-Let's solve this issue for a greenhouse farm having with apples and oranges.
+The initial model shall only have numbers.
 ```
+
