@@ -39,7 +39,7 @@ To solve this problem, if there's a feedback system that could help beginners un
 
 For this, create a model that detects the signs using keras and tensorflow.
 
-The initial model shall only have numbers.
+The initial model shall only have numbers. 
 ```
 
 ## Data collection
